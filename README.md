@@ -1,8 +1,8 @@
 # samp-keys.inc
 
-[![SA-MP](https://img.shields.io/badge/SA--MP-0.3.7--R2+-blue.svg)](https://sa-mp.com/)
+[![SA-MP](https://img.shields.io/badge/SA--MP-0.3.7--R2+-blue.svg)](https://sa-mp.mp/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-1.0.0-orange.svg)](https://github.com/yourusername/samp-keys)
+[![Version](https://img.shields.io/badge/version-1.0.0-orange.svg)](https://github.com/leapp-dev/samp-keys)
 
 A professional and dynamic key sequence minigame system for SA-MP servers. Create engaging quick-time events where players must press the correct sequence of keys within a time limit.
 
